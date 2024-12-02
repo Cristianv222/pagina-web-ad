@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = ""; // Cambia según tu configuración
-$dbname = "proyecto";
+$host = "fdb1028.awardspace.net";
+$user = "4557195_proyecto";
+$password = "cris.20034"; // Cambia según tu configuración
+$dbname = "4557195_proyecto";
 
 $conn = new mysqli($host, $user, $password, $dbname);
 

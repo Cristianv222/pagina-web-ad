@@ -1,9 +1,9 @@
 <?php
 // Configuración de la base de datos
-$host = "localhost"; 
-$dbname = "proyecto"; 
-$username = "root"; 
-$password = ""; 
+$host = "fdb1028.awardspace.net"; 
+$dbname = "4557195_proyecto"; 
+$username = "4557195_proyecto"; 
+$password = "cris.20034"; 
 
 try {
     // Conexión a la base de datos
